@@ -1,6 +1,6 @@
 # GIS_Development_Project
 
-#### Project Requirements
+## Project Requirements
 Your organization has been hired by the City of Helsinki to do an urban climate analysis for the Helsinki city centre development plan. However, before the actual analysis work can be started, you need to figure out the best way to approach the problem. Thus, you have been given the task of figuring out how to tackle the challenge.
 
 Helsinki City is interested in how blue and green infrastructure behave at street level and how they could lead to improving the urban climate and thermal comfort along with creation of lively centres for people to get together and spend pleasant and quality time there. The pedestrian, sitting and cycling areas in Helsinki city centre will be expanded in early summer 2026. The climate responsive proposal is expected to be inclusive and provide fair opportunities for all.
