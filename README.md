@@ -13,12 +13,12 @@ In this work, your task is to see what open geospatial data can be used as sourc
 
 ## Data
 
-  1- Digital Elevation Data
-  2- Wind Map Data
+  1. Digital Elevation Data
+  2. Wind Map Data
 
 ## Installation and Run
 
-  1- Install Python 3.9 or above
-  2- Then install modules using 'pip3 install -r requirements.txt'
-  3- Install Geoserver and upload kayers data too it.
-  4- Run app.py file to start web.
+  1. Install Python 3.9 or above
+  2. Then install modules using 'pip3 install -r requirements.txt'
+  3. Install Geoserver and upload kayers data too it.
+  4. Run app.py file to start web.
