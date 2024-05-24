@@ -12,3 +12,13 @@ The Urban Multi-scale Environmental Predictor (UMEP) is a climate service tool, 
 In this work, your task is to see what open geospatial data can be used as source data for the calculation and to create a prototype web application for urban climate modeling data. In the prototype, only publicly available data will be used as input. Therefore, the possible regulations and planning guides for such permanent change and how they can be taken into account will need some adjustment for this prototype service. If possible, the client would like you to also investigate the suitability of Helsinki 3d datasets as input data for the analysis. The client is aware that the results of this project will be a best-effort solution instead of a full implementation of a microclimate simulation.
 
 ## Data
+
+1- Digital Elevation Data
+2- Wind Map Data
+
+## Installation and Run
+
+1- Install Python 3.9 or above
+2- Then install modules using 'pip3 install -r requirements.txt'
+3- Install Geoserver and upload kayers data too it.
+4- Run app.py file to start web.
