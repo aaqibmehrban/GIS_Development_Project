@@ -14,7 +14,7 @@ In this work, your task is to see what open geospatial data can be used as sourc
 ## Data
 
   1. Digital Elevation Data - NLS: https://asiointi.maanmittauslaitos.fi/karttapaikka/tiedostopalvelu
-  2. Wind Map Data
+  2. Wind Map Data - https://globalwindatlas.info/en
   3. Canopy data - HSY: https://kartta.hsy.fi/
   4. Building data for DSM: QGIS: QuickOSM-plugin
 
