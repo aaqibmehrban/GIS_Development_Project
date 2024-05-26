@@ -1,4 +1,4 @@
-# GIS_Development_Project
+# GIS Development Project
 
 ## Project Requirements
 Your organization has been hired by the City of Helsinki to do an urban climate analysis for the Helsinki city centre development plan. However, before the actual analysis work can be started, you need to figure out the best way to approach the problem. Thus, you have been given the task of figuring out how to tackle the challenge.
